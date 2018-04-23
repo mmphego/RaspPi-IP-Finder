@@ -1,4 +1,4 @@
-# PI IP Finder
+# RaspPi-IP-Finder
 The Pi IP Finder is intended to work with the [latest version of Raspbian][1],
 so please make sure you have installed Raspbian on your SD card before continuing.
 
